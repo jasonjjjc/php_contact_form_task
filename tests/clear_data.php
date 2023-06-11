@@ -1,6 +1,6 @@
 <?php
 // Create a new database connection
-$conn = new SQLite3('inc/contact_form.db');
+$conn = new SQLite3('../inc/contact_form.db');
 
 // Check if the connection is successful
 if (!$conn) {

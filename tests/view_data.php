@@ -1,6 +1,6 @@
 <?php
 // Create a new database connection
-$dbname = 'inc/contact_form.db';
+$dbname = '../inc/contact_form.db';
 $conn = new SQLite3($dbname);
 
 // Check if the connection is successful

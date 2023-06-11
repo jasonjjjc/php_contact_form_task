@@ -15,3 +15,5 @@ If there are any issues with the inputs given, the user should be highlighted to
 The input fields should remain populated when showing the errors.✅
 
 If all fields are entered correctly and validation passes, the data should be saved to a database and the end-user notified the submission has been successful.✅
+
+Export the database file.✅ (inc/contact_form.sql)
